@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Computing at Birkbeck University.
+
 <!--
 **mketur01/mketur01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
